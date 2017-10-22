@@ -5,7 +5,7 @@ This is a minimalist boot screen for use with plymouth
 
 ## installation
 
-- clone this repo or download it
+clone this repo or download it
 ```bash
   git clone git@github.com:devCharles/beard-skull-plymouth-bootscreen.git
 ```
