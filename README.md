@@ -1,7 +1,7 @@
 # beard skull plymouth boot screen
 
 This is a minimalist boot screen for use with plymouth
-
+![beard-skull-boot-screen][https://s3-us-west-2.amazonaws.com/devcharles/cdn/img/beard-skull-boot-screen.jpg]
 
 ## installation
 
