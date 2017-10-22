@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Charles
+Description=A theme that features a black background with a skull logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/charles
+ScriptFile=/usr/share/plymouth/themes/charles/charles.script
